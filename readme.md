@@ -10,7 +10,11 @@ of uploaded documents.
 
 ## Dependencies 
 ----------------------------
-1. Install the required dependencies by running the following command:
+1. create .env file
+   ```
+   HUGGINGFACEHUB_APT_TOKEN= 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
+   ```
+2. Install the required dependencies by running the following command:
    ```
    pip install -r requirements.txt
    
