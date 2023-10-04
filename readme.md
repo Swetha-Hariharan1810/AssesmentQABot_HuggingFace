@@ -12,7 +12,7 @@ of uploaded documents.
 ----------------------------
 1. create .env file
    ```
-   HUGGINGFACEHUB_APT_TOKEN= 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
+   HUGGINGFACEHUB_APT_TOKEN= 
    ```
 2. Install the required dependencies by running the following command:
    ```
